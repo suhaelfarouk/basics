@@ -16,6 +16,6 @@ int main()
 
     cout << "He liked the name " << characterName << endl;
     cout << "but didn't like being " << characterAge << endl;
-    
+
     return 0;
 }
