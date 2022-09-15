@@ -15,7 +15,6 @@ int main()
 }
 
 // Function definition
-void sayHi(string name, int age)
-{
+void sayHi(string name, int age){
     cout << "Hello " << name << ", you are " << age << endl;
 }
