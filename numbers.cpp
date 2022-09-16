@@ -29,7 +29,7 @@ int main()
     // Square root
     cout << sqrt(36) << endl;
 
-    // Round
+    // Round off
     cout << round(4.3) << endl;
 
     // Round up
